@@ -18,7 +18,7 @@ This repository focuses on **AI-driven ophthalmic diagnostics**, specifically de
 
 ### 📈 Training Progress  
 Below is the **Loss vs Accuracy graph** over 90 epochs:  
-![Model Performance](epoch90.png)  
+![Model Performance]"C:\Users\DELL\Documents\epoch90.png"  
 
 ### 👁 Sample Eye Image Used for Detection  
 ![Sample Eye Image](image1.png)  
